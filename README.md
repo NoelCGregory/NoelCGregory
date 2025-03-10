@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 👨‍💻 My Portfolio: [NoelGregory.ca/](https://NoelGregory.ca/)
+- 👨‍💻 My Portfolio: [NoelGregory.ca/](https://noelgregory.netlify.app/)
 
 - 📫 How to reach me **noelchungathgregory@gmail.com**
 
