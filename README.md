@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-- 🔭 I’m currently working on [Wave](https://www.waveapps.com/)
+- 🔭 Previously currently working on [General Motors](https://www.gm.ca/en/home.html)
 
 - 🌱 I’m currently learning **Android**
 
-- 👨‍💻 My Portfolio: [manansharma.ca/](https://manansharma.ca/)
+- 👨‍💻 My Portfolio: [NoelGregory.ca/](https://NoelGregory.ca/)
 
-- 📫 How to reach me **mansharm71@gmail.com**
+- 📫 How to reach me **noelchungathgregory@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
