@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS CLoud**
 
-- 👨‍💻 My Portfolio: [NoelGregory.ca/](https://noelgregory.netlify.app/)
+- 👨‍💻 My Portfolio: [NoelGregory.ca/](https://noelgregorychunagth.netlify.app/)
 
 - 📫 How to reach me **noelchungathgregory@gmail.com**
 
