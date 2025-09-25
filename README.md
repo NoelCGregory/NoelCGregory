@@ -4,7 +4,7 @@
 
 - 🔭 Previously worked at [Opslvel](https://www.opslevel.com/)
 
-- 🌱 I’m currently learning **AWS CLoud**
+- 🌱 I’m currently learning **AWS Cloud**
 
 - 👨‍💻 My Portfolio: [NoelGregory.ca/](https://noelgregorychunagth.netlify.app/)
 
